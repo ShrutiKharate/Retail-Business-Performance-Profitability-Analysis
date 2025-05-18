@@ -4,6 +4,7 @@
 
 This project focuses on analyzing retail transactional data to uncover hidden trends, detect profit-draining categories, and optimize inventory turnover using **SQL** and **Python (Pandas)**, with final visualization in **Power BI**.
 
+![Image](https://github.com/user-attachments/assets/35dc50de-5e36-4c26-b3fa-80bb1337f355)
 ---
 
 ## 📂 Dataset Used
